@@ -1,0 +1,7 @@
+def middle(L=[]):
+    n = len(L)
+    for i in range(n):
+        if i <= (n/2-1):
+            
+            print(L[i])
+middle(["lala",[1,2,3,4,5],"lish","hh"])
